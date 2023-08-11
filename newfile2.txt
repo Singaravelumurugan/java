@@ -1,2 +1,4 @@
 java is a independent platform.
 it supports primitive data types.
+adding one more things
+123456
